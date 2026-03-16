@@ -15,4 +15,9 @@ HTML / CSS / JavaScript / Python（ツールによる）
 
 ## 作者
 
-レンダーファーム開発を行いながら、各種ツール開発・映像制作を受けています。
+**Merista Lab（ヤマグチヨウスケ）**  
+After Effects自動化・映像制作ツール開発
+
+- 🔗 [lit.link/meristalab](https://meristalab.com/)
+- 🛒 [BOOTH](https://meristalab.booth.pm/)
+- 📝 [note](https://note.com/meridianstudio)
