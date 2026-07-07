@@ -1,8 +1,9 @@
 {
     "folders": [
-		{
-			"path": "."
-		}
-	],
+        {
+            "name": "mini-tools",
+            "path": "."
+        }
+    ],
     "settings": {}
 }
